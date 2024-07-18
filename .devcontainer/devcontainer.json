@@ -7,7 +7,7 @@
     "postCreateCommand": "npm install -g @devcontainers/cli",
     "customizations": {
         "vscode": {
-            "extensions": [
+            "extensions":
                 "mads-hartmann.bash-ide-vscode",
                 "dbaeumer.vscode-eslint",
                 "EditorConfig.EditorConfig"
